@@ -1,0 +1,155 @@
+body {
+	background-color: black;
+	margin: 10px;
+	font-family: 'Crimson Pro', serif;
+	background-image: url('tausta.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+html {
+	overflow-y: scroll;
+}
+
+h1 {
+	color: white;
+}
+
+h2 {
+	color: white;
+}
+
+h3 {
+	color: white;
+}
+
+h4 {
+	color: white;
+}
+
+h5 {
+	color: white;
+}
+
+h6 {
+	color: white;
+}
+
+p {
+	color: white;
+}
+
+.logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 100%;
+	width: 820px;
+	height: auto;
+}
+
+.navbar {
+	background-color: rgb(25, 25, 25);
+	background-image: url('metal.jpg');
+	max-width: 850px;
+	min-height: 40px;
+	line-height: 40px;
+	text-align: center;
+	margin: auto;
+	margin-top: 12px;
+}
+
+.navbar a {
+	background-image: none;
+	padding: 8px 20px;
+	font-size: 18px;
+	text-decoration: none;
+	color: white;
+}
+
+.navbar a:hover {
+	background-color: rgb(45, 45, 45);
+	background-image: url('metal-highlight.jpg');
+}
+
+.navbar a.active {
+	background-color: rgb(177, 55, 55);
+	background-image: url('metal-select.jpg');
+}
+
+.content {
+	background-color: rgb(25, 25, 25);
+	background-image: url('metal.jpg');
+	max-width: 830px;
+	min-height: 480px;
+	margin: auto;
+	margin-top: 10px;
+	padding: 1px 10px;
+	padding-bottom: 40px;
+	word-wrap: break-word;
+}
+
+.content p {
+	margin-left: 20px;
+}
+
+.content a {
+	color: rgb(255, 99, 71);
+}
+
+.content img {
+	max-width: 100%;
+	height: auto;
+}
+
+.latausnappihide {
+	display: none;
+}
+
+.latausnappi:hover img:first-child {
+	display: none;
+}
+
+.latausnappi:hover img:last-child {
+	display: inline-block;
+}
+
+.latausnappi {
+	width: 170px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.latausosio {
+	text-align: center;
+	margin-top: -400px;
+}
+
+.latausosio p {
+	margin-left: 0px;
+}
+
+.latausalateksti {
+	color: rgb(200, 200, 200);
+	font-size: 18px;
+}
+
+.latausyläteksti {
+	font-size: 20px;
+}
+
+.latausbg {
+	pointer-events: none;
+	user-drag: none;
+	-webkit-user-drag: none;
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	min-width: 830px;
+	min-height: 400px;
+}
