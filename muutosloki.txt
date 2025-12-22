@@ -1,0 +1,11 @@
+ver 25.12.2 - julkaistu 21.12.2025
+ - käännetty tavaraluettelo (kuten apuvihjeet, esineen poimiminen, esineiden nimet ja kuvaukset, karkkien nimet ja kuvakset (paitsi halloweentapahtuman karkit))
+ - käännetty aseiden lisävarusteiden muokkaaminen sekä niiden nimet ja vaikutukset (suurinta osaa tekstikuvauksista ei ole vielä käännetty)
+ - käännetty suurin osa päävalikosta, kuten asetukset, valikot ja latausruudun vihjeet (vain joidenkin asetusten kuvauksia ei ole vielä käännetty)
+ - käännetty luokkien nimet ja esittelyruutu sekä ihmisten f1-ruudun tehtäväkuvaus (loppuja f1-ruudun asioista ei ole vielä käännetty)
+ - käännetty kuolemasyyt
+ - käännetty kaikki ihmisten ja scp:iden kyvyt (paitsi f1-ruudun aputekstit)
+ - käännetty laitoksessa esiintyvät näytöt, kuten alfa-ydinkärki ja kuulutushuone
+ - käännetty ainakin suurin osa valikoista, kuten pelinpäättymisruutu, pelaajan pidättäminen, jne.
+ - käännetty cassien kuulutusten tekstitykset
+ - käännetty mahdollisesti muutakin mitä en tähän muistanut kirjoittaa
