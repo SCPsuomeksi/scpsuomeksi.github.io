@@ -1,7 +1,8 @@
 ver 25.12.3 - julkaistu 29.12.2025 - peliversioon 14.2.4
  - käännetty (luultavasti) koko päävalikko loppuun
- - käännetty kaikkien scp:iden f1-ruudun tehtäväkuvaus
+ - käännetty kaikkien scp:iden f1-ruudun tehtäväkuvaus (mutta ei vielä kykyjä)
  - useita korjauksia ja parannuksia
+
 
 ver 25.12.2 - julkaistu 21.12.2025 - peliversioon 14.2.4
  - käännetty tavaraluettelo (kuten apuvihjeet, esineen poimiminen, esineiden nimet ja kuvaukset, karkkien nimet ja kuvakset (paitsi halloweentapahtuman karkit))
@@ -13,5 +14,4 @@ ver 25.12.2 - julkaistu 21.12.2025 - peliversioon 14.2.4
  - käännetty laitoksessa esiintyvät näytöt, kuten alfa-ydinkärki ja kuulutushuone
  - käännetty ainakin suurin osa valikoista, kuten pelinpäättymisruutu, pelaajan pidättäminen, jne.
  - käännetty cassien kuulutusten tekstitykset
-
  - käännetty mahdollisesti muutakin mitä en tähän muistanut kirjoittaa
