@@ -1,3 +1,9 @@
+ver 26.1.1 - julkaistu 21.1.2026 - peliversioon 14.2.5
+ - käännetty aseiden lisävarusteiden ja osien tekstikuvaukset
+ - käännetty pelaajanilmiantoruutu
+ - muutamia korjauksia ja parannuksia
+
+
 ver 25.12.3 - julkaistu 29.12.2025 - peliversioon 14.2.4
  - käännetty (luultavasti) koko päävalikko loppuun
  - käännetty kaikkien scp:iden f1-ruudun tehtäväkuvaus (mutta ei vielä kykyjä)
