@@ -106,6 +106,8 @@ p {
 
 .latausnappihide {
 	display: none;
+	width: 170px;
+	margin-bottom: -1.85%;
 }
 
 .latausnappi:hover img:first-child {
@@ -122,6 +124,7 @@ p {
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
+	max-width: 100%;
 }
 
 .latausosio {
@@ -183,6 +186,6 @@ p {
     }
 	
 	.latausosio {
-		margin-top: 38px;
+		margin-top: 37px;
 	}
 }
