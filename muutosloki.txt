@@ -1,3 +1,8 @@
+ver 26.1.2 - julkaistu 29.1.2026 - peliversioon 14.2.5
+ - käännetty ihmisten f1-ruudun kyvyt
+ - muutamia korjauksia ja parannuksia
+
+
 ver 26.1.1 - julkaistu 21.1.2026 - peliversioon 14.2.5
  - käännetty aseiden lisävarusteiden ja osien tekstikuvaukset
  - käännetty pelaajanilmiantoruutu
