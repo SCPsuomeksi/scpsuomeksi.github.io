@@ -1,4 +1,4 @@
-ver 26.3.1 - julkaistu 26.3.2026 - peliversioon 14.2.6
+ver 26.3.1 - julkaistu 26.3.2026 - peliversioon 14.2.6 ja 14.2.7
  - päivitetty uusimpaan peliversioon
  - muutamia parannuksia
 
